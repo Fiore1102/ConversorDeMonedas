@@ -21,7 +21,7 @@ public class CurrencyApi {
 
 	    public double currencyApiRequest() {
 	        String url = "https://api.currencyapi.com/v3/latest";
-	        String apiKey = "cur_live_7qb93AMPMfpQlYqc6LIvu1Fnfs7GnWK698IsakVs";
+	        String apiKey = "API_KEY";
 
 	        double valueDouble = 0;
 	        try {
